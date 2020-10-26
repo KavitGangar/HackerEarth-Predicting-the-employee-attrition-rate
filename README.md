@@ -32,4 +32,5 @@ Attrition_rate(TARGET VARIABLE) | Attrition rate of each employee
 The evaluation metric : root mean squared error
 
 Achieved an accuracy of 81.56% on the test set. 
-Rank achieved : 53 (out of 5500 registered participants)
+
+Rank: 53 (out of 5500 registered participants)
